@@ -1,0 +1,262 @@
+{
+  "project_info": {
+    "project_number": "932605572544",
+    "firebase_url": "https://setupfirebase-58d9c.firebaseio.com",
+    "project_id": "setupfirebase-58d9c",
+    "storage_bucket": "setupfirebase-58d9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932605572544:android:7d95d76883e29fa2",
+        "android_client_info": {
+          "package_name": "com.danasugu.bucurii_esentiale_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932605572544-oeelnmlb79nma1mtmeh52dn31pcpp169.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.danasugu.bucurii_esentiale_v2",
+            "certificate_hash": "947fcac60ac264ef8c4c61759a3f275867788bec"
+          }
+        },
+        {
+          "client_id": "932605572544-d13t8m9dn0h1afmb7qpciir1jgnb4i30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABZjlo7C42sJLWW9RE5T8F3tCDT1SdD2g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932605572544-d13t8m9dn0h1afmb7qpciir1jgnb4i30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932605572544:android:4422e278b042dd24",
+        "android_client_info": {
+          "package_name": "com.siva.flutterconference"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932605572544-c4a68vk0r5kribtesbjeb7cfgbr7hmlc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.siva.flutterconference",
+            "certificate_hash": "947fcac60ac264ef8c4c61759a3f275867788bec"
+          }
+        },
+        {
+          "client_id": "932605572544-d13t8m9dn0h1afmb7qpciir1jgnb4i30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABZjlo7C42sJLWW9RE5T8F3tCDT1SdD2g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932605572544-d13t8m9dn0h1afmb7qpciir1jgnb4i30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932605572544:android:d5f0a487b4a35371",
+        "android_client_info": {
+          "package_name": "danasugu.com.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932605572544-bo46325c0ttehc1of6tdu6940sdeijkk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "danasugu.com.newsapp",
+            "certificate_hash": "947fcac60ac264ef8c4c61759a3f275867788bec"
+          }
+        },
+        {
+          "client_id": "932605572544-d13t8m9dn0h1afmb7qpciir1jgnb4i30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABZjlo7C42sJLWW9RE5T8F3tCDT1SdD2g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932605572544-d13t8m9dn0h1afmb7qpciir1jgnb4i30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932605572544:android:84439dc0bdcdd1a6",
+        "android_client_info": {
+          "package_name": "ro.srmi.durerea.toracica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932605572544-m9jbe9jq0f6bsltv3sigmucsl2fd6gaj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ro.srmi.durerea.toracica",
+            "certificate_hash": "947fcac60ac264ef8c4c61759a3f275867788bec"
+          }
+        },
+        {
+          "client_id": "932605572544-d13t8m9dn0h1afmb7qpciir1jgnb4i30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABZjlo7C42sJLWW9RE5T8F3tCDT1SdD2g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932605572544-d13t8m9dn0h1afmb7qpciir1jgnb4i30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932605572544:android:58905d6fec238647",
+        "android_client_info": {
+          "package_name": "ro.srmi.raportdegarda4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932605572544-0f6bas3lva1fa4182okq5jkukntk1fag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ro.srmi.raportdegarda4",
+            "certificate_hash": "947fcac60ac264ef8c4c61759a3f275867788bec"
+          }
+        },
+        {
+          "client_id": "932605572544-d13t8m9dn0h1afmb7qpciir1jgnb4i30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABZjlo7C42sJLWW9RE5T8F3tCDT1SdD2g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932605572544-d13t8m9dn0h1afmb7qpciir1jgnb4i30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932605572544:android:1426814013796d1b",
+        "android_client_info": {
+          "package_name": "setup.conferinta.ella"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932605572544-d13t8m9dn0h1afmb7qpciir1jgnb4i30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABZjlo7C42sJLWW9RE5T8F3tCDT1SdD2g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
